@@ -1,0 +1,38 @@
+{
+  "name": "Berbagi Informasi Terkini",
+  "short_name": "BIT",
+  "start_url": "URL HOMEPAGE",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Seputar Dunia Teknologi, Blog, Bisnis, Kesehatan, Fashion, Keuangan, dan lain-lain",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-7j-wDJyEHSo/XkJNczu_QiI/AAAAAAAAAYg/ypzM-8Y4SWIzd26OHxTaEGxaVq-6XmcJgCLcBGAsYHQ/s48/Favicon.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-7j-wDJyEHSo/XkJNczu_QiI/AAAAAAAAAYg/ypzM-8Y4SWIzd26OHxTaEGxaVq-6XmcJgCLcBGAsYHQ/s72/Favicon.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-7j-wDJyEHSo/XkJNczu_QiI/AAAAAAAAAYg/ypzM-8Y4SWIzd26OHxTaEGxaVq-6XmcJgCLcBGAsYHQ/s96/Favicon.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-7j-wDJyEHSo/XkJNczu_QiI/AAAAAAAAAYg/ypzM-8Y4SWIzd26OHxTaEGxaVq-6XmcJgCLcBGAsYHQ/s144/Favicon.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-7j-wDJyEHSo/XkJNczu_QiI/AAAAAAAAAYg/ypzM-8Y4SWIzd26OHxTaEGxaVq-6XmcJgCLcBGAsYHQ/s168/Favicon.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-7j-wDJyEHSo/XkJNczu_QiI/AAAAAAAAAYg/ypzM-8Y4SWIzd26OHxTaEGxaVq-6XmcJgCLcBGAsYHQ/s192/Favicon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-7j-wDJyEHSo/XkJNczu_QiI/AAAAAAAAAYg/ypzM-8Y4SWIzd26OHxTaEGxaVq-6XmcJgCLcBGAsYHQ/s512/Favicon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
