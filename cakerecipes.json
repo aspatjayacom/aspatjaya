@@ -3,21 +3,21 @@
     [
   {
     "id":1,
-    "judul":"Alien Nebak Gambar V1.1",
-    "image":"https://aliendro.id/uploads/images/202010/img_x500_5f75cd57c95d24-35892570-77528121.jpg",
-    "link":"https://aliendro.id/alien-nebak-gambar-v11-16"
+    "judul":"Voice Translator App",
+    "image":"https://lh3.googleusercontent.com/WZ-aJErt3iDImv3lBZscGUu6D-v44la1BSws4vZZglRSPZWwVWkdU0AaR7GfauPMxg=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.mirzadev.voicetranslatorapp"
   },
   {
     "id":2,
-    "judul":"Alien Skin Craft V1.1",
-    "image":"https://aliendro.id/uploads/images/202009/img_x500_5f748b8941e1d9-76852947-35724018.jpg",
-     "link":"https://aliendro.id/alien-skin-craft-v11-3"
+    "judul":"Recipes Chicken",
+    "image":"https://lh3.googleusercontent.com/SMeG5e3HK4cfcrE3ibjNP6RDS58W6Mya-Yn1wbxuvJ8G2yLsHkuVLSuSkbKNEMhMOk0=s180-rw",
+     "link":"https://play.google.com/store/apps/details?id=com.mirzadev.recipeschicken"
   },
   {
     "id":3,
-    "judul":"Alien Wallapper Json V2.8",
-    "image":"https://aliendro.id/uploads/images/202009/img_x500_5f748768ab9724-22614153-29713412.jpg",
-    "link":"https://aliendro.id/alien-wallapper-json-v28-2"
+    "judul":"New Makeup Tutorial",
+    "image":"https://lh3.googleusercontent.com/QuNwoomkbjdNYSICikO8lodI1SYoMVEsa1ZMqNfZjzUKLyIM3hOhNRhz91kba4sw6Q=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.mirzadev.newmakeupguide"
   }
 ],
 
@@ -32,7 +32,7 @@
         "admob_open":"ca-app-pub-8074230319419198/4554857297",
         "fan_inter": "1205915916448298_1205916956448194",
         "fan_native_banner": "1205915916448298_1205916303114926",
-        "interval": 5,
+        "interval": 3,
         "hpk_admob1":"",
         "hpk_admob2":"",
         "hpk_admob3":"",
