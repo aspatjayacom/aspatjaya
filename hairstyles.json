@@ -5,10 +5,10 @@
         "interid": "ca-app-pub-3940256099942544/1033173712",
         "nativeid": "ca-app-pub-3940256099942544/2247696110",
         "openads":"ca-app-pub-3940256099942544/1033173712",
-        "interval": 2,
+        "interval": 3,
         "pengaturan_iklan":"2",
-        "fan_inter":"981545408591412_999151030164183",
-        "fan_banner_native":"981545408591412_2709037092508893",
+        "fan_inter":"1554663508029063_1554677514694329",
+        "fan_banner_native":"1554663508029063_1554672404694840",
         "startaap":"1234567890",
         "mopub_inter":"",
         "mopu_banner":""
@@ -20,21 +20,21 @@
   [
     {
       "id":1,
-      "judul":"Ludo King Off",
-      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+      "judul":"Recipes Chicken",
+      "image":"https://play-lh.googleusercontent.com/SMeG5e3HK4cfcrE3ibjNP6RDS58W6Mya-Yn1wbxuvJ8G2yLsHkuVLSuSkbKNEMhMOk0=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mirzadev.recipeschicken"
     },
     {
       "id":2,
-      "judul":"Homescapes Off",
-      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+      "judul":"New Makeup Tutorial",
+      "image":"https://play-lh.googleusercontent.com/QuNwoomkbjdNYSICikO8lodI1SYoMVEsa1ZMqNfZjzUKLyIM3hOhNRhz91kba4sw6Q=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mirzadev.newmakeupguide"
     },
     {
       "id":3,
-      "judul":"Minecraft Off",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+      "judul":"Cake Recipes for Free",
+      "image":"https://play-lh.googleusercontent.com/Sl-Z8ZuDlXw8oarZ8ij1Qp-QV0arpanxVwcwHh-NSD711DqKTLA2iVydE8eUzaVZklo=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mirzadev.cakerecipes"
     }
   ]
 }
